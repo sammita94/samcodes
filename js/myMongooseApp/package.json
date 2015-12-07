@@ -1,0 +1,14 @@
+{
+  "name": "myMongooseApp",
+  "version": "1.0.0",
+  "description": "trial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "sammita",
+  "license": "ISC",
+  "devDependencies": {
+    "mongoose": "^4.2.9"
+  }
+}
