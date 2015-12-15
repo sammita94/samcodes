@@ -123,3 +123,5 @@ def make_graph_dot_product_as_vector_projection(plt):
     plt.scatter(*zip(v,w,o),marker='.')
     plt.axis('equal')
     plt.show()
+Status API Training Shop Blog About Pricing
+
